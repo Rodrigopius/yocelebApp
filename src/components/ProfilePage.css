@@ -1,0 +1,44 @@
+.profile-card {
+    background-color: #343a40; /* Dark blue background color */
+    color: #fff; /* White text color */
+    border: none; /* Remove default border */
+    border-radius: 10px; /* Add a slight border-radius */
+  }
+  
+  .upload-label,
+  .profile-button,
+  .update-profile-button,
+  .logout-button {
+    background-color: transparent;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    font-size: 16px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .upload-icon,
+  .profile-icon,
+  .update-profile-icon,
+  .logout-icon {
+    margin-right: 8px;
+  }
+  
+  .upload-label:hover,
+  .profile-button:hover,
+  .update-profile-button:hover,
+  .logout-button:hover {
+    opacity: 0.8;
+  }
+  
+  .update-profile-button {
+    background-color: #28a745; /* Green color for update profile button */
+  }
+  
+  .update-profile-button:hover {
+    background-color: #218838; /* Darker green on hover */
+  }
+  

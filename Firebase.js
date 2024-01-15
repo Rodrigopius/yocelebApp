@@ -1,0 +1,17 @@
+
+import { initializeApp } from "firebase/app";
+import {getAuth} from "firebase/auth";
+const firebaseConfig = {
+  apiKey: "AIzaSyAmebHe3c4oJDPXdUfwTt9TiA-ObkZ_KeQ",
+  authDomain: "yoceleb-auth.firebaseapp.com",
+  projectId: "yoceleb-auth",
+  storageBucket: "yoceleb-auth.appspot.com",
+  messagingSenderId: "91829231078",
+  appId: "1:91829231078:web:714c70c5612e0d3329ca27",
+  measurementId: "G-W24XT0L05Y"
+};
+
+// Initialize Firebase
+const app = initializeApp(firebaseConfig);
+export const auth = getAuth(app);
+export default app;

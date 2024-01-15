@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.95f813d1.css",
+    "main.js": "/static/js/main.97195af4.js",
+    "static/js/787.a591b70e.chunk.js": "/static/js/787.a591b70e.chunk.js",
+    "static/media/screenshot-1.png": "/static/media/screenshot-1.36376abbb5c7ea06ff06.png",
+    "static/media/fun3.jpg": "/static/media/fun3.7391c68f20f37bb0e554.jpg",
+    "static/media/fun1.jpg": "/static/media/fun1.61a171769aad117d3d2e.jpg",
+    "static/media/fun4.jpg": "/static/media/fun4.d709e283fe773641476c.jpg",
+    "static/media/fun2.jpg": "/static/media/fun2.6b2457860deb5db531af.jpg",
+    "static/media/fun5.jpg": "/static/media/fun5.6329d5f37a84dd860972.jpg",
+    "static/media/beyonce.jpg": "/static/media/beyonce.95b16c60f999a098113a.jpg",
+    "static/media/cel1.jpg": "/static/media/cel1.8ede6151e6df46e765b2.jpg",
+    "static/media/Dr.jpg": "/static/media/Dr.d0e9f2e390681f410be2.jpg",
+    "static/media/cel.jpg": "/static/media/cel.3f2a2db3031a6a39c145.jpg",
+    "static/media/img.PNG": "/static/media/img.849040279434cfc7084e.PNG",
+    "static/media/bobiwine.jpg": "/static/media/bobiwine.375f15873f490ca9fb22.jpg",
+    "static/media/about.png": "/static/media/about.81e635aea1cb6754f125.png",
+    "static/media/bugembe.jpg": "/static/media/bugembe.4e028ff765520e9348b3.jpg",
+    "static/media/cel2.jpg": "/static/media/cel2.f411d153064389a478e6.jpg",
+    "static/media/screenshot-3.png": "/static/media/screenshot-3.ba76df8c999d44111922.png",
+    "static/media/screenshot-4.png": "/static/media/screenshot-4.0f34389e1a431e773367.png",
+    "static/media/screenshot-2.png": "/static/media/screenshot-2.d893e4a2ad5e199b60b1.png",
+    "static/media/user.png": "/static/media/user.0c5557d0b23b63155912.png",
+    "static/media/screenshot-5.png": "/static/media/screenshot-5.a14b3c0d2786c6973e25.png",
+    "static/media/judth.jpg": "/static/media/judth.4d2f23f870fbf796345d.jpg",
+    "static/media/screenshot-frame.png": "/static/media/screenshot-frame.bab03582b2e637ce7c72.png",
+    "static/media/frank.jpg": "/static/media/frank.b10b5be6dc321be2b91a.jpg",
+    "static/media/bg-top.png": "/static/media/bg-top.4241dec68071e7e57036.png",
+    "index.html": "/index.html",
+    "main.95f813d1.css.map": "/static/css/main.95f813d1.css.map",
+    "main.97195af4.js.map": "/static/js/main.97195af4.js.map",
+    "787.a591b70e.chunk.js.map": "/static/js/787.a591b70e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95f813d1.css",
+    "static/js/main.97195af4.js"
+  ]
+}
