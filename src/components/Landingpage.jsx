@@ -4,17 +4,8 @@ import Images  from "./ImageCards";
 
 import img1 from "../img/about.png";
 import img2 from "../img/screenshot-1.png";
-import img3 from "../img/screenshot-2.png";
-import img4 from "../img/screenshot-3.png";
-import img5 from "../img/screenshot-4.png";
-import img6 from "../img/screenshot-5.png";
-import img7 from "../img/bg-top.png";
-import img8 from "../img/screenshot-frame.png";
-import img9 from '../img/fun1.jpg';
-import img10 from '../img/fun2.jpg';
-import img11 from '../img/fun3.jpg';
-import img12 from '../img/fun4.jpg';
-import img13 from '../img/fun5.jpg';
+
+
 
 
 function Landingpage() {
@@ -355,12 +346,12 @@ function Landingpage() {
                 className="col-lg-4 d-flex justify-content-center justify-content-lg-end wow fadeInUp"
                 data-wow-delay="0.3s"
               >
+                {/* Image Caurousel*/}
                 <div className="owl-carousel screenshot-carousel">
-                  <img className="img-fluid" src={img2} alt="Yoceleb" />
-                  <img className="img-fluid" src={img2} alt="Yoceleb" />
-                  <img className="img-fluid" src={img2} alt="Yoceleb" />
-                  <img className="img-fluid" src={img5} alt="Yoceleb" />
-                  <img className="img-fluid" src={img6} alt="Yoceleb" />
+                 
+
+
+
                 </div>
               </div>
             </div>

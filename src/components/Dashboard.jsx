@@ -2,15 +2,9 @@ import React, { useEffect, useState } from 'react';
 import DesktopNav from './DestopNav';
 import MobileNav from './MobileNav';
 import SearchButton from './Search';
-import img1 from '../img/cel1.jpg';
-import img2 from '../img/cel2.jpg';
-import img3 from '../img/cel.jpg';
-import img4 from '../img/judth.jpg';
-import img5 from '../img/Dr.jpg';
-import img6 from '../img/bobiwine.jpg';
-import img7 from '../img/bugembe.jpg';
+
 import img8 from '../img/beyonce.jpg';
-import img9 from '../img/frank.jpg'
+
 
 // Example images for each category
 const celebrityImages = {
@@ -24,15 +18,9 @@ export const fetchCelebrities = async () => {
   return new Promise((resolve) => {
     setTimeout(() => {
       resolve([
-        { name: 'Tom Hanks', category: 'actor', imageUrl: img1, rating: '4.5/5' },
+   
         { name: 'Beyoncé Beyonce', category: 'musician', imageUrl: img8, rating: '5/5' },
-        { name: 'Serena Williams', category: 'athlete', imageUrl: img3, rating: '4.7/5' },
-        { name: 'Bobi Wine', category: 'actor', imageUrl: img6, rating: '4.5/5' },
-        { name: 'Judith Babiry', category: 'musician', imageUrl: img4, rating: '5/5' },
-        { name: 'Serena Williams', category: 'athlete', imageUrl: img3, rating: '4.7/5' },
-        { name: 'Wilson Bugembe', category: 'actor', imageUrl: img7, rating: '4.5/5' },
-        { name: 'Dr Sweradda', category: 'musician', imageUrl: img5, rating: '5/5' },
-        { name: 'Frank Walusibi', category: 'athlete', imageUrl: img9, rating: '4.7/5' },
+      
         
       
    

@@ -5,15 +5,7 @@ import { Link } from "react-router-dom";
 import Register from "./Signup";
 import TalentProfile from './TalentProfile'
 
-import img1 from "../img/about.png";
-import img2 from "../img/screenshot-1.png";
-import img3 from "../img/screenshot-2.png";
-import img4 from "../img/screenshot-3.png";
-import img5 from "../img/screenshot-4.png";
-import img6 from "../img/screenshot-5.png";
-import img7 from "../img/bg-top.png";
-import img8 from "../img/screenshot-frame.png";
-import img9 from "../img/img.PNG";
+
 
 function CelebSignup() {
   
@@ -240,11 +232,7 @@ function CelebSignup() {
           <div className="container py-5 px-lg-5">
             <div className="row g-5 align-items-center">
               <div className="col-lg-6">
-                <img
-                  className="img-fluid wow fadeInUp"
-                  data-wow-delay="0.1s"
-                  src={img9}
-                />
+              
                
               </div>
               
