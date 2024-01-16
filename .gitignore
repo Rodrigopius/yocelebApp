@@ -10,7 +10,7 @@ firebase-debug.*.log*
 # Firebase cache
 .firebase/
 
-build/
+
 # Firebase config
 
 # Uncomment this if you'd like others to create their own Firebase project.
@@ -47,6 +47,9 @@ build/Release
 
 # Dependency directories
 node_modules/
+
+#build
+build/
 
 # Optional npm cache directory
 .npm
